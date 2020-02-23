@@ -1,3 +1,6 @@
+#GCP-HK
+trojan://1234qwer@www.forzamilan.xyz:443
+
 #mokuba-JP
 trojan://QG4L368GKRNUFVL2@mokuba.ssss.monster:443
 
