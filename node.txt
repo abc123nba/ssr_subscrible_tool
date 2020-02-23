@@ -1,11 +1,11 @@
 #GCP-HK
-trojan://1234qwer@www.forzamilan.xyz:443
+trojan://××××××@www.forzamilan.xyz:443
 
-#mokuba-JP
-trojan://QG4L368GKRNUFVL2@mokuba.ssss.monster:443
+#JP
+trojan://QG4L368GKRNUFVL2@×××××.ssss.monster:443
 
-#Yoroppa-MD
-trojan://QG4L368GKRNUFVL2@yoroppa.ssss.monster:443
+#MD
+trojan://QG4L368GKRNUFVL2@××××××.ssss.monster:443
 
-#Kitsune-AU
-trojan://QG4L368GKRNUFVL2@kitsune.ssss.monster:443
+#AU
+trojan://QG4L368GKRNUFVL2@×××××××.ssss.monster:443
